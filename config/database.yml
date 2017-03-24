@@ -4,4 +4,4 @@ development:
  database: hyperloop-showcase-rails5-webpacker
  pool: 5
  username: fcooker
- password: Beloos-27021975
+ password: password
