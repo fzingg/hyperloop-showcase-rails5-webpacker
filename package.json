@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "autoprefixer": "^6.7.7",
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.2.2",
+    "bootstrap": "^3.3.7",
+    "bootswatch": "^3.3.7",
+    "coffee-loader": "^0.7.3",
+    "coffee-script": "^1.12.4",
+    "compression-webpack-plugin": "^0.3.2",
+    "css-loader": "^0.27.3",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "file-loader": "^0.10.1",
+    "glob": "^7.1.1",
+    "js-yaml": "^3.8.2",
+    "node-sass": "^4.5.1",
+    "path-complete-extname": "^0.1.0",
+    "postcss-loader": "^1.3.3",
+    "postcss-smart-import": "^0.6.10",
+    "precss": "^1.4.0",
+    "rails-erb-loader": "^3.2.0",
+    "react-bootstrap": "^0.30.8",
+    "react-player": "^0.14.3",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.16.0",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.3.1",
+    "webpack-manifest-plugin": "^1.1.0",
+    "webpack-merge": "^4.1.0"
+  },
+  "devDependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack-dev-server": "^2.4.2"
+  }
+}

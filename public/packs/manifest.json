@@ -1,0 +1,9 @@
+{
+  "application.js": "http://localhost:8080/application.js",
+  "application.js.map": "http://localhost:8080/application.js.map",
+  "client_and_server.js": "http://localhost:8080/client_and_server.js",
+  "client_and_server.js.map": "http://localhost:8080/client_and_server.js.map",
+  "client_only.js": "http://localhost:8080/client_only.js",
+  "client_only.js.map": "http://localhost:8080/client_only.js.map",
+  "glyphicons-halflings-regular.svg": "http://localhost:8080/89889688147bd7575d6327160d64e760.svg"
+}
